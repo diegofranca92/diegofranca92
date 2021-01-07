@@ -22,6 +22,14 @@ const mySkills = {
 > - [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT)
 > - [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/)
 
+> *Mobile - Réplicas de Apps das Semanas promovidas pela [Rocketseat](https://rocketseat.com.br/)*
+
+- [Proffy](https://youtu.be/OgZzTEvcQ2k)
+- [Ecoleta](https://youtu.be/pAZP_almlO0)
+- [DevRadar](https://youtu.be/aIn4unl43dc)
+
+[Participação na LIVE MAKER: Aprenda como migrar para o Maker Studio Bootstrap](https://youtu.be/3qJZ5zEjx6U?t=1221)
+
 > Pra saber mais sobre mim esse é meu [Linkedin](https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78/)
 
 <!-- Github Stats
