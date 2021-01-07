@@ -15,7 +15,9 @@ const mySkills = {
 };
 
 ```
-> *Alguns trabalhos feitos por mim:*
+> #### Alguns trabalhos feitos por mim:
+
+> *WEB*
 
 > - [Home Flash Entregas](https://www.flashentregas.com.br/)
 > - [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login)
