@@ -15,12 +15,12 @@ const mySkills = {
 };
 
 ```
-Alguns trabalhos feitos por mim:
+> *Alguns trabalhos feitos por mim:*
 
-[Home Flash Entregas](https://www.flashentregas.com.br/)
-[Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login)
-[Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT)
-[Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/)
+> - [Home Flash Entregas](https://www.flashentregas.com.br/)
+> - [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login)
+> - [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT)
+> - [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/)
 
 > Pra saber mais sobre mim esse é meu [Linkedin](https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78/)
 
