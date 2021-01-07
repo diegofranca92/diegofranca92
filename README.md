@@ -1,5 +1,7 @@
 > #### Opa, tudo bem ? Sou Diego França. :computer:
 
+*Sou fã demais de Capoeira e me amarro em criar coisas ! [em especial na area de Frontend e Designer Gráfico]*
+
 ```
 const mySkills = {
     web: ["React", "Vue"],
