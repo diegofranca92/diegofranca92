@@ -1,4 +1,4 @@
-> #### Opa, tudo bem ? Sou Diego França. :computer:
+> #### Opa, tudo bem ? Sou Diego França. :octocat:
 
 *Sou fã demais de Capoeira e me amarro em criar coisas ! [em especial na area de Frontend e Designer Gráfico]*
 
@@ -17,14 +17,14 @@ const mySkills = {
 ```
 > #### Alguns trabalhos feitos por mim:
 
-> *WEB*
+> *WEB*  :computer:
 
 > - [Home Flash Entregas](https://www.flashentregas.com.br/)
 > - [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login)
 > - [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT)
 > - [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/)
 
-> *Mobile - Réplicas de Apps das Semanas promovidas pela [Rocketseat](https://rocketseat.com.br/)*
+> *Mobile :calling: - Réplicas de Apps das Semanas promovidas pela [Rocketseat](https://rocketseat.com.br/)*
 
 - [Proffy](https://youtu.be/OgZzTEvcQ2k)
 - [Ecoleta](https://youtu.be/pAZP_almlO0)
@@ -33,7 +33,7 @@ const mySkills = {
 > *Serie de Mini Projeto de CSS pra explorar habilidades de CSS :stuck_out_tongue_winking_eye: [#Desafio30DeCSS](https://codepen.io/collection/nYkBQN)*
 
 
-[Participação na LIVE MAKER: Aprenda como migrar para o Maker Studio Bootstrap](https://youtu.be/3qJZ5zEjx6U?t=1221)
+[Participação na LIVE MAKER](https://youtu.be/3qJZ5zEjx6U?t=1221) :tv: : Aprenda como migrar para o Maker Studio Bootstrap
 
 > Pra saber mais sobre mim esse é meu [Linkedin](https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78/)
 
