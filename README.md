@@ -30,6 +30,9 @@ const mySkills = {
 - [Ecoleta](https://youtu.be/pAZP_almlO0)
 - [DevRadar](https://youtu.be/aIn4unl43dc)
 
+> *Serie de Mini Projeto de CSS pra explorar habilidades de CSS :stuck_out_tongue_winking_eye: [#Desafio30DeCSS](https://codepen.io/collection/nYkBQN)*
+
+
 [Participação na LIVE MAKER: Aprenda como migrar para o Maker Studio Bootstrap](https://youtu.be/3qJZ5zEjx6U?t=1221)
 
 > Pra saber mais sobre mim esse é meu [Linkedin](https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78/)
