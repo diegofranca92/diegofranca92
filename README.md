@@ -24,13 +24,14 @@ const mySkills = {
 | [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT) | [DevRadar](https://youtu.be/aIn4unl43dc) |
 | [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/) |
 
-> *Serie de Mini Projeto de CSS pra explorar habilidades de CSS :stuck_out_tongue_winking_eye: [#Desafio30DeCSS](https://codepen.io/collection/nYkBQN)*
+| Desafios e Contéudo |
+|:-----------------:|
+| Serie de Mini Projeto de CSS pra explorar habilidades de CSS :stuck_out_tongue_winking_eye: [#Desafio30DeCSS](https://codepen.io/collection/nYkBQN)|
+| [Participação na LIVE MAKER](https://youtu.be/3qJZ5zEjx6U?t=1221) :tv: : Aprenda como migrar para o Maker Studio Bootstrap |
 
-
-[Participação na LIVE MAKER](https://youtu.be/3qJZ5zEjx6U?t=1221) :tv: : Aprenda como migrar para o Maker Studio Bootstrap
-
+***
 > Pra saber mais sobre mim esse é meu [Linkedin](https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78/)
-
+***
 <!-- Github Stats
 ![Diego Status](https://github-readme-stats.vercel.app/api?username=diegofranca92&show_icons=true)
 -->
