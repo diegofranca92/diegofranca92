@@ -17,18 +17,12 @@ const mySkills = {
 ```
 > #### Alguns trabalhos feitos por mim:
 
-> *WEB*  :computer:
-
-> - [Home Flash Entregas](https://www.flashentregas.com.br/)
-> - [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login)
-> - [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT)
-> - [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/)
-
-> *Mobile :calling: - Réplicas de Apps das Semanas promovidas pela [Rocketseat](https://rocketseat.com.br/)*
-
-- [Proffy](https://youtu.be/OgZzTEvcQ2k)
-- [Ecoleta](https://youtu.be/pAZP_almlO0)
-- [DevRadar](https://youtu.be/aIn4unl43dc)
+|*WEB*  :computer: | *Mobile* :calling: - (Réplicas de Apps das Semanas promovidas pela [Rocketseat](https://rocketseat.com.br/) )|
+| ---------------- |:-----------------:|
+| [Home Flash Entregas](https://www.flashentregas.com.br/) | [Proffy](https://youtu.be/OgZzTEvcQ2k) |
+| [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login) | [Ecoleta](https://youtu.be/pAZP_almlO0) |
+| [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT) | [DevRadar](https://youtu.be/aIn4unl43dc) |
+| [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/) |
 
 > *Serie de Mini Projeto de CSS pra explorar habilidades de CSS :stuck_out_tongue_winking_eye: [#Desafio30DeCSS](https://codepen.io/collection/nYkBQN)*
 
