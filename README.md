@@ -17,12 +17,12 @@ const mySkills = {
 ```
 > #### Alguns trabalhos feitos por mim:
 
-|*WEB*  :computer: | *Mobile* :calling: - (Réplicas de Apps das Semanas promovidas pela [Rocketseat](https://rocketseat.com.br/) )|
+|*WEB*  :computer: | *Mobile* :calling: - (Clone de Apps) |
 | ---------------- |:-----------------:|
 | [Home Flash Entregas](https://www.flashentregas.com.br/) | [Proffy](https://youtu.be/OgZzTEvcQ2k) |
 | [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login) | [Ecoleta](https://youtu.be/pAZP_almlO0) |
 | [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT) | [DevRadar](https://youtu.be/aIn4unl43dc) |
-| [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/) |
+| [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/) | [Twich TV](https://www.youtube.com/watch?v=XGug6U3l_4c)
 
 | Desafios e Contéudo |
 |:-----------------:|
