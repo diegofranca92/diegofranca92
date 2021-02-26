@@ -17,7 +17,7 @@ const mySkills = {
 ```
 > #### Alguns trabalhos feitos por mim:
 
-|*WEB*  :computer: | *Mobile* :calling: - (Clone de Apps) |
+|*WEB* :computer: | *Mobile* :calling: - (Clone de Apps) - React Native |
 | ---------------- |:-----------------:|
 | [Home Flash Entregas](https://www.flashentregas.com.br/) | [Proffy](https://youtu.be/OgZzTEvcQ2k) > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-proffy/next-level-proffy/mobile)
 | [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login) | [Ecoleta](https://youtu.be/pAZP_almlO0) > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-ecoleta/next-level-ecoleta/mobile)
