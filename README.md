@@ -29,7 +29,7 @@ const mySkills = {
 | Desafios e Contéudo |
 |:-----------------:|
 | Serie de Mini Projeto de CSS pra explorar habilidades de CSS :stuck_out_tongue_winking_eye: [#Desafio30DeCSS](https://codepen.io/collection/nYkBQN)|
-|[Layouts WEB](https://codesandbox.io/dashboard/all/Layouts%20WEB?workspace=e3038601-3eb0-4d7c-ad88-04c24fa7de5b) Feitos no [#Desafio30DeCSS](https://codepen.io/collection/nYkBQN)|
+|[Desafios HTML/CSS](https://codepen.io/collection/nYkBQN) Feitos no [#Desafio30DeCSS]|
 | [Participação na LIVE MAKER](https://youtu.be/3qJZ5zEjx6U?t=1221) :tv: : Aprenda como migrar para o Maker Studio Bootstrap |
 
 ***
