@@ -18,7 +18,8 @@ const mySkills = {
 > #### Alguns trabalhos feitos por mim:
 
 ***
-> 🛤️ Aqui está uma amostra do que eu posso fazer, pra conhecer mais do meu trabalho, só falar comigo que eu te mostro uma lista bem legal ;)
+> 🛤️ Aqui está uma amostra do que eu posso fazer, pra conhecer mais do meu trabalho, 
+> só falar comigo que eu te mostro uma lista bem legal 😁
 ***
 
 |*WEB* :computer: | *Mobile* :calling: - (Clone de Apps) - React Native |
