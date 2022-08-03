@@ -17,6 +17,10 @@ const mySkills = {
 ```
 > #### Alguns trabalhos feitos por mim:
 
+***
+> Aqui está uma amostra do que eu posso fazer, pra conhecer mais do meu trabalho, só falar comigo que eu te mostro ;)
+***
+
 |*WEB* :computer: | *Mobile* :calling: - (Clone de Apps) - React Native |
 | ---------------- |:-----------------:|
 | [Home Flash Entregas](https://www.flashentregas.com.br/) | [Proffy](https://youtu.be/OgZzTEvcQ2k) > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-proffy/next-level-proffy/mobile)
