@@ -18,7 +18,7 @@ const mySkills = {
 > #### Alguns trabalhos feitos por mim:
 
 ***
-> 🛤️ Aqui está uma amostra do que eu posso fazer, pra conhecer mais do meu trabalho, 
+> 🛤️ Aqui está uma amostra do que eu posso fazer, pra conhecer mais do meu trabalho, <br>
 > só falar comigo que eu te mostro uma lista bem legal 😁
 ***
 
