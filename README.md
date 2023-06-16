@@ -30,8 +30,9 @@ const mySkills = {
 | [Home Flash Entregas](https://www.flashentregas.com.br/) | [Proffy](https://youtu.be/OgZzTEvcQ2k) - Clone > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-proffy/next-level-proffy/mobile)
 | [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login) | [BitBank](https://youtu.be/nQkOahk-Buo) - Flutter
 | [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT) |
-| [Home Robô Guru Investimentos](http://gurusite.netlify.app/) | 
-
+| [Home Robô Guru Investimentos - Template](http://gurusite.netlify.app/) | 
+| [Landing Page ISS Bancos](https://materiais.imap.org.br/iss-bancos) |
+| [Portal de Compras Publicas - Template](https://portal-compras.netlify.app/) |
 
 <!-- | [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/) | [Twich TV](https://www.youtube.com/watch?v=XGug6U3l_4c) > [Código](https://github.com/diegofranca92/ui-twitch-clone) -->
 
