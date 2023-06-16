@@ -1,6 +1,6 @@
-> #### Opa, tudo bem ? Sou Diego França. :octocat:
-
-*Sou fã demais de Capoeira e me amarro em criar coisas ! [em especial na area de Frontend, Mobile e Backend]*
+> #### Opa, tudo bem ? Sou Diego França. :octocat: *Sou fã demais de Capoeira e me amarro em criar coisas ! [em especial na area de Frontend, Mobile e Backend]* ***
+> Pra saber mais sobre mim esse é meu [Linkedin](https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78/)
+***
 
 |Categoria | Tecnologias que tenho experiência |
 | ---------------- |:-----------------:|
@@ -17,8 +17,6 @@
 > 🛤️ Aqui está uma amostra do que eu posso fazer, pra conhecer mais do meu trabalho, <br>
 > só falar comigo que eu te mostro uma lista bem legal 😁
 ***
-
-> #### Alguns trabalhos feitos por mim:
 |*WEB* :computer: | *Mobile* :calling: - React Native e Flutter |
 | ---------------- |:-----------------:|
 | [Página de Carreiras Ilegra](https://ilegra.com/carreira/) | [Helloo Condominio (Google Store - Publicado)](https://play.google.com/store/apps/details?id=com.helloorg.helloo.condominio.production&hl=pt_BR&gl=US)
@@ -39,9 +37,6 @@
 |[Desafios HTML/CSS](https://codepen.io/collection/nYkBQN) Feitos no [#Desafio30DeCSS]|
 | [Participação na LIVE MAKER](https://youtu.be/3qJZ5zEjx6U?t=1221) :tv: : Aprenda como migrar para o Maker Studio Bootstrap |
 
-***
-> Pra saber mais sobre mim esse é meu [Linkedin](https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78/)
-***
 <!-- Github Stats
 ![Diego Status](https://github-readme-stats.vercel.app/api?username=diegofranca92&show_icons=true)
 -->
