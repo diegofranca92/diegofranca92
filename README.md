@@ -22,12 +22,16 @@ const mySkills = {
 > só falar comigo que eu te mostro uma lista bem legal 😁
 ***
 
-|*WEB* :computer: | *Mobile* :calling: - (Clone de Apps) - React Native |
+|*WEB* :computer: | *Mobile* :calling: - React Native e Flutter |
 | ---------------- |:-----------------:|
-| [Home Flash Entregas](https://www.flashentregas.com.br/) | [Proffy](https://youtu.be/OgZzTEvcQ2k) > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-proffy/next-level-proffy/mobile)
-| [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login) | [Ecoleta](https://youtu.be/pAZP_almlO0) > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-ecoleta/next-level-ecoleta/mobile)
-| [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT) | [DevRadar](https://youtu.be/aIn4unl43dc)  > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/semana10/semana-omnistack-10/mobile)
-| [Home Robô Guru Investimentos](http://gurusite.netlify.app/) | [Helloo Condominio (Google Store - Publicado)](https://play.google.com/store/apps/details?id=com.helloorg.helloo.condominio.production&hl=pt_BR&gl=US)
+| [Página de Carreiras Ilegra](https://ilegra.com/carreira/) | [Helloo Condominio (Google Store - Publicado)](https://play.google.com/store/apps/details?id=com.helloorg.helloo.condominio.production&hl=pt_BR&gl=US)
+| [Gerenciador de OKRs Ilegra](http://okr.ilegra.com/) | [Ecoleta](https://youtu.be/pAZP_almlO0) - Clone > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-ecoleta/next-level-ecoleta/mobile)
+| [Portal DMS-IF (SEFAZ Salvador)](https://dmsif.sefaz.salvador.ba.gov.br/) | [DevRadar](https://youtu.be/aIn4unl43dc)  - Clone > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/semana10/semana-omnistack-10/mobile)
+| [Home Flash Entregas](https://www.flashentregas.com.br/) | [Proffy](https://youtu.be/OgZzTEvcQ2k) - Clone > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-proffy/next-level-proffy/mobile)
+| [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login) | [BitBank](https://youtu.be/nQkOahk-Buo) - Flutter
+| [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT) |
+| [Home Robô Guru Investimentos](http://gurusite.netlify.app/) | 
+
 
 <!-- | [Buscador de Filmes com a API Movie DB](https://pwa-app-host.firebaseapp.com/) | [Twich TV](https://www.youtube.com/watch?v=XGug6U3l_4c) > [Código](https://github.com/diegofranca92/ui-twitch-clone) -->
 
