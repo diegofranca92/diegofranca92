@@ -24,7 +24,7 @@
 | [Gerenciador de OKRs Ilegra](http://okr.ilegra.com/) | [Ecoleta](https://youtu.be/pAZP_almlO0) - Clone > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-ecoleta/next-level-ecoleta/mobile)
 | [Portal DMS-IF (SEFAZ Salvador)](https://dmsif.sefaz.salvador.ba.gov.br/) | [DevRadar](https://youtu.be/aIn4unl43dc)  - Clone > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/semana10/semana-omnistack-10/mobile)
 | [Home Flash Entregas](https://www.flashentregas.com.br/) | [Proffy](https://youtu.be/OgZzTEvcQ2k) - Clone > [Código](https://github.com/diegofranca92/estudos-rocketseat/tree/next-level-proffy/next-level-proffy/mobile)
-| [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login) | [BitBank](https://youtu.be/nQkOahk-Buo) - Flutter
+| [Sistema Web Flash Entregas](https://appweb.flashentregas.com.br/login) | [BitBank](https://youtu.be/nQkOahk-Buo) > [Código](https://github.com/diegofranca92/bitbank_app) - Flutter
 | [Tema de Exemplo do Maker Studio](https://hotelaria.softwell.com.br/hotelariaboot/open.do?sys=HOT) |
 | [Home Robô Guru Investimentos - Template](http://gurusite.netlify.app/) | 
 | [Landing Page ISS Bancos](https://materiais.imap.org.br/iss-bancos) |
