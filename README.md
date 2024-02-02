@@ -1,7 +1,7 @@
 > #### Opa, tudo bem ? Sou Diego França. :octocat: 
 > Sou fã demais de Capoeira e me amarro em criar coisas ! (em especial na area de Frontend, Mobile e Backend)
 > 
-> Pra saber mais sobre mim esse é meu [Portfólio](https://diegofranca.vercel.app/) e meu [Linkedin](https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78/)
+> Pra saber mais sobre mim esse é meu [Linkedin](https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78/)
 <!--
 |Categoria | Tecnologias que tenho experiência |
 | ---------------- |:-----------------:|
